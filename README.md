@@ -1,25 +1,30 @@
-# Hi, I'm Chiefpatwal! 👋
+<h1 align="center">Hi 👋, I'm PANKAJ PATWAL</h1>
+<h3 align="center">A passionate problem solver from India</h3>
 
-I'm passionate about dynamic programming, Java algorithms, and contributing to open-source projects. I'm currently participating in Hacktoberfest and looking forward to collaborating on exciting projects!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiefpatwal&label=Profile%20views&color=0e75b6&style=flat" alt="chiefpatwal" /> </p>
 
-- 🔭 I’m currently working on: Java Algorithms, Open Source Contributions
-- 🌱 I’m learning: Advanced Java, Dynamic Programming Techniques
-- 📫 How to reach me: [chiefpatwal@gmail.com](mailto:chiefpatwal@gmail.com)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiefpatwal" alt="chiefpatwal" /></a> </p>
 
-## 🔧 Technologies & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+- 🔭 I’m currently working on **Full stack project**
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiefpatwal&show_icons=true&theme=radical)
+- 🌱 I’m currently learning **React,NextJs**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiefpatwal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 🤝 I’m looking for help with **Open Source Contribution**
 
-## 🚀 Current Projects
-- [Java Algorithms](https://github.com/Chiefpatwal/Java-Algorithms): A collection of Java algorithms focusing on dynamic programming and data structures.
-- [Hacktoberfest Contributions](https://github.com/search?q=author%3AChiefpatwal): Explore my contributions during Hacktoberfest 2024.
+- 💬 Ask me about **Problem Solving**
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/chiefpatwal)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiefpatwal@gmail.com)
+- 📫 How to reach me **pankajpatwal1224@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pankaj-patwal-b2912425b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pankaj-patwal-b2912425b" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pankajpatwal1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pankajpatwal1224" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiefpatwal&show_icons=true&locale=en" alt="chiefpatwal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiefpatwal&" alt="chiefpatwal" /></p>
+
