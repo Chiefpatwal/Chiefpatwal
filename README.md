@@ -20,8 +20,7 @@
 - Open to collaborating on **Open Source Contributions**
 
 ### 💬 Ask Me About
-- Problem solving and **Java algorithms**
-- **Dynamic Programming** techniques
+- Problem solving and ** Algorithms**
 
 ### 📫 Reach Me At
 - **Email**: [pankajpatwal1224@gmail.com](mailto:pankajpatwal1224@gmail.com)
@@ -32,9 +31,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/pankaj-patwal-b2912425b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-patwal-b2912425b" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/pankajpatwal1224" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pankajpatwal1224" height="30" width="40" />
   </a>
 </p>
 
