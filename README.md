@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.holopin.io/@chiefpatwal">
+  <a href="https://www.holopin.io/@chiefpatwal#badges">
     <img src="https://holopin.me/your-badge-url" alt="Holopin Badge" />
   </a>
 </p>
