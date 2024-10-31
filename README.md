@@ -12,21 +12,17 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.holopin.io/@chiefpatwal#badges">
-    <img src="https://holopin.me/your-badge-url" alt="Holopin Badge" />
-  </a>
-</p>
+
 
 ---
 
 ### 🔭 Current Focus
 - Participating in **HacktoberFest 2024** 🏆
-- Learning **React** and **Next.js** for front-end development
+- Learning **React** and **Next.js**
 - Open to collaborating on **Open Source Contributions**
 
 ### 💬 Ask Me About
-- Problem solving and ** Algorithms**
+- D.S.A , Problem solving and ** Algorithms**
 
 ### 📫 Reach Me At
 - **Email**: [pankajpatwal1224@gmail.com](mailto:pankajpatwal1224@gmail.com)
