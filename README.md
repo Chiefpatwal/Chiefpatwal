@@ -1,4 +1,4 @@
-<img src="https://github.com/Chiefpatwal/Chiefpatwal/edit/main/DALL%C2%B7E%202024-11-02%2019.41.35%20-%20A%20professional%2C%20minimalist%20black-themed%20image%20with%20a%20modern%20design.%20It%20features%20subtle%20text%2C%20saying%20'Pankaj%20Patwal'%20in%20a%20clean%2C%20small%20font%20at%20the%20cent.webp">
+<img src="https://github.com/Chiefpatwal/Chiefpatwal/blob/main/dark2.png">
 <br/>
 <br/>
 
