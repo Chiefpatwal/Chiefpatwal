@@ -1,6 +1,6 @@
 ---
 
-<h3 align="center">👋 Hey there! I'm Pankaj Singh Patwal, a developer passionate about Open Source and Java</h3>
+<h3 align="center">👋 Hey there! I'm Pankaj Patwal, a developer passionate about Open Source and Java</h3>
 
 - 📬 For freelance work inquiries, feel free to reach out via [email](mailto:pankajpatwal.email@gmail.com).
 
