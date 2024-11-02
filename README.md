@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-## Heyyo, I'm Pankaj Patwal!  
+## Heyyo, I'm <a href="https://aakarsh.design" target="_blank">Aakarsh</a>!
 *(Use dark theme to find my socials 😉)*
 
 <a href="https://www.linkedin.com/in/pankaj-patwal-b2912425b/" target="_blank"><img align="left" alt="Pankaj Patwal | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
