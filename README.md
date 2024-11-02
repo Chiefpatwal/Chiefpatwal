@@ -1,76 +1,59 @@
-<h1 align="center">Hi 👋, I'm PANKAJ PATWAL</h1>
-<h3 align="center">A passionate problem solver from India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chiefpatwal&label=Profile%20views&color=0e75b6&style=flat" alt="chiefpatwal" />
-  <img src="https://img.shields.io/github/followers/chiefpatwal?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chiefpatwal&theme=gruvbox&no-bg=true&no-frame=true&row=1&column=6" alt="chiefpatwal" />
-  </a>
-</p>
-
-
+Here's a customized version of this template for you, Pankaj! I made it align with your profile, including your focus on Java, DSA, and open-source contributions. Let me know if you'd like further tweaks!
 
 ---
 
-### 🔭 Current Focus
-- Participating in **HacktoberFest 2024** 🏆
-- Learning **React** and **Next.js**
-- Open to collaborating on **Open Source Contributions**
+<h1 align="center">Hi 👋, I'm Pankaj Singh Patwal</h1>
+<h3 align="center">An enthusiastic Open Source Contributor and Java Developer from India</h3>
 
-### 💬 Ask Me About
-- D.S.A , Problem solving and ** Algorithms**
+<img align="right" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
-### 📫 Reach Me At
-- **Email**: [pankajpatwal1224@gmail.com](mailto:pankajpatwal1224@gmail.com)
+<br/>
 
----
+<h3>
+🔭 I’m currently contributing to **TheAlgorithms/Java** repository and developing DSA solutions.
+</h3>
+<h3>
+🌱 I’m currently learning **Advanced Data Structures, System Design, and Backend Development**
+</h3>
+<h3>
+📫 How to reach me: **pankajpatwal.email@gmail.com**
+</h3>
 
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/pankaj-patwal-b2912425b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-patwal-b2912425b" height="30" width="40" />
-  </a>
+<br/>
+
+## Hacktoberfest and GSSoC(24) Badges 🏆
+<div align='center'>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+</div>
+
+[![An image of @Chiefpatwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chiefpatwal)](https://holopin.io/@chiefpatwal)
+
+<h1 align="left">Connect with me:</h1>
+<p align="left">
+<a href="https://www.linkedin.com/in/pankaj-singh-patwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-singh-patwal" height="30" width="40" /></a>
+<a href="https://leetcode.com/Chiefpatwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiefpatwal" height="30" width="40" /></a>
+<a href="https://github.com/Chiefpatwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chiefpatwal" height="30" width="40" /></a>
 </p>
 
----
-
-<h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
+<h1 align="left">Languages and Tools:</h1>
+<p align="left"> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chiefpatwal&show_icons=true&locale=en&layout=compact" alt="Chiefpatwal" /></p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiefpatwal&show_icons=true&locale=en&theme=radical" alt="chiefpatwal stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiefpatwal&theme=radical" alt="chiefpatwal streaks" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiefpatwal&show_icons=true&locale=en" alt="Chiefpatwal" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiefpatwal&show_icons=true&locale=en&layout=compact&theme=radical" alt="chiefpatwal languages" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chiefpatwal&" alt="Chiefpatwal" /></p>
