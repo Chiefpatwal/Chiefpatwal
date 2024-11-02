@@ -23,7 +23,7 @@
 <br />
 
 ### Languages and Tools:
-<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/java.svg" /></a>
+<a href="https://github.com/Chiefpatwal/Chiefpatwal/blob/main/dark2.png" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /></a>
