@@ -25,6 +25,7 @@
 ### Languages and Tools:
 <a href="https://github.com/Chiefpatwal/Chiefpatwal/blob/main/dark2.png" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Java" width="26px" src="https://github.com/Chiefpatwal/Chiefpatwal/blob/main/Untitled%20design(3).png"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
@@ -34,7 +35,7 @@
 <br />
 
 ### Softwares:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Chiefpatwal/Chiefpatwal/blob/main/Untitled%20design(2).png" />
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 <img align="left" alt="IntelliJ" width="26px" src="https://github.com/Chiefpatwal/Chiefpatwal/blob/main/Untitled%20design(1).png" />
