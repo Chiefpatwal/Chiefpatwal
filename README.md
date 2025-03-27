@@ -1,4 +1,4 @@
-<img src="https://github.com/Chiefpatwal/Chiefpatwal/blob/main/dark2.png">
+<img src=>
 <br/>
 <br/>
 
