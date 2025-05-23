@@ -13,12 +13,7 @@
 <br />
 <br />
 
-### 📕 Latest Blog Post
-*(Coming Soon!)*  
-<!-- BLOG-POST-LIST:START -->
-<!-- Placeholder link for future blog integration -->
-[Sample Blog Post](https://example.com)
-<!-- BLOG-POST-LIST:END -->
+
 
 <br />
 
