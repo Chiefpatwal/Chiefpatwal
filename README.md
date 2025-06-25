@@ -1,42 +1,53 @@
+<h1 align="center"> Hey, I'm Pankaj Patwal!</h1>
 
-<br/>
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20solutions;Tech%20enthusiast%20and%20problem%20solver;&center=true&width=500&height=50">
+</p>
 
-## Heyyo, I'm <a href="" target="_blank">Pankaj Patwal</a>!
-*(Use dark theme to find my socials 😉)*
+<h3 align="center"> Final-Year B.Tech Student | Problem Solver | Tech Explorer</h3>
 
-<a href="https://www.linkedin.com/in/pankaj-patwal-b2912425b/" target="_blank"><img align="left" alt="Pankaj Patwal | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
-<a href="https://leetcode.com/u/pankajpatwal1224/" target="_blank"><img align="left" alt="Pankaj Patwal | LeetCode" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-<a href="https://medium.com/@pankaj" target="_blank"><img align="left" alt="Pankaj Patwal | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" /></a>
+---
 
-<br />
-<br />
-<br />
+## 🌟About Me  
 
+I’m a final-year B.Tech student with a focus on problem-solving and building clean, efficient solutions. From full-stack development to data structure challenges, I thrive on tackling problems and continuous learning.
 
+- 📧 **Reach out:** **pankajpatwal1224@gmail.com**
+- ⚡ **Fun fact:** When I’m not coding, I’m probably binge-watching thrillers, because every great bug fix deserves a plot twist.
 
-<br />
+---
 
-### Languages and Tools:
-<a href="https://github.com/Chiefpatwal/Chiefpatwal/blob/main/dark2.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Java" width="26px" src="https://github.com/Chiefpatwal/Chiefpatwal/blob/main/Untitled%20design(3).png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
-<a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /></a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+## ⚒️ Tech Stack & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>
+</p>
 
-<br />
-<br />
+---
 
-### Softwares:
+## 🔗 Let’s Connect
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Chiefpatwal/Chiefpatwal/blob/main/Untitled%20design(4).png" />
-<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
-<img align="left" alt="IntelliJ" width="26px" src="https://github.com/Chiefpatwal/Chiefpatwal/blob/main/Untitled%20design(1).png" />
+Looking to connect with fellow developers, collaborators, or just swap coding war stories? Hit me up 👇
 
-<br />
-<br />
-
-
-[![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiefpatwal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pankaj-patwal-b2912425b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/pankajpatwal1224/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Code%20with%20me-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
