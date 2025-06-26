@@ -13,7 +13,7 @@
 I’m a final-year B.Tech student with a focus on problem-solving and building clean, efficient solutions. From full-stack development to data structure challenges, I thrive on tackling problems and continuous learning.
 
 - 📧 **Reach out:** **pankajpatwal1224@gmail.com**
-- ⚡ **Fun fact:** When I’m not coding, I’m probably binge-watching thrillers, because every great bug fix deserves a plot twist.
+
 
 ---
 
